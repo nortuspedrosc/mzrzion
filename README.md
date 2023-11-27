@@ -1,12 +1,12 @@
 # Prodecures de controle de Timer e Arquivo .ini
-# *Colocar o arquivo Config.ini na mesma pasta do Macx.exe*
+### *Colocar o arquivo Config.ini na mesma pasta do Macx.exe*
 
-## Inserir a var no Alxor32 = XTimeoutMestre: Integer;
+### Inserir a var no Alxor32 = XTimeoutMestre: Integer;
 
-# UMenu
-## No Uses do UMenu chamar o IniFiles
+## UMenu
+### No Uses do UMenu chamar o IniFiles
 
-## Inserir Timer no UMenu e setar seu interval para = 600.000 milesegundos = 10 minutos
+### Inserir Timer no UMenu e setar seu interval para = 600.000 milesegundos = 10 minutos
 
 ## Procedures a serem criadas no UMenu
 ### procedure TFMenu.CarregaConfigIni;
